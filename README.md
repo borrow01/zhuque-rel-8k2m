@@ -4,8 +4,8 @@
 
 ## 下载
 
-👉 前往 **[Releases](https://github.com/borrow01/zhuque-rel-8k2m/releases/latest)** 下载最新版 `朱雀_V7.6 极速版.exe`，
-配套说明文档见同页的 `朱雀使用说明书A.docx`。
+👉 前往 **[Releases](https://github.com/borrow01/zhuque-rel-8k2m/releases/latest)** 下载最新版 `zhuque_v7.6.exe`，
+配套说明文档见同页的 `zhuque_manual_A.docx`。
 
 ## 使用说明（一看就会）
 
