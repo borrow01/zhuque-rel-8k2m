@@ -4,8 +4,17 @@
 
 ## 下载
 
-👉 前往 **[Releases](https://github.com/borrow01/zhuque-rel-8k2m/releases/latest)** 下载最新版 `zhuque_v7.6.exe`，
-配套说明文档见同页的 `zhuque_manual_A.docx`。
+> 若 GitHub 下载慢/卡住，请用下面「国内镜像加速」链接，速度更快。
+
+**主程序（zhuque_v7.6.exe）**
+- 官方直链：https://github.com/borrow01/zhuque-rel-8k2m/releases/download/v7.6/zhuque_v7.6.exe
+- 国内镜像加速：https://ghproxy.net/https://github.com/borrow01/zhuque-rel-8k2m/releases/download/v7.6/zhuque_v7.6.exe
+
+**使用说明书（zhuque_manual_A.docx）**
+- 官方直链：https://github.com/borrow01/zhuque-rel-8k2m/releases/download/v7.6/zhuque_manual_A.docx
+- 国内镜像加速：https://ghproxy.net/https://github.com/borrow01/zhuque-rel-8k2m/releases/download/v7.6/zhuque_manual_A.docx
+
+（也可前往 **[Releases](https://github.com/borrow01/zhuque-rel-8k2m/releases/latest)** 查看全部版本。）
 
 ## 使用说明（一看就会）
 
